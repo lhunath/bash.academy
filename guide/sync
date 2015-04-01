@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-set -e
-
-cd "${BASH_SOURCE[0]%/*}"
-jekyll build
-s3cmd sync --delete-removed --no-preserve --acl-public --reduced-redundancy _site/ s3://guide.bash.academy/
