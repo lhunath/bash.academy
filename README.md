@@ -1,7 +1,7 @@
 bash.academy
 ============
 
-The http://bash.academy website
+The http://bash.academy website 
 
 **What to use bash academy for  **
 
