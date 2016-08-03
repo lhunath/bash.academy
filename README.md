@@ -3,7 +3,8 @@ bash.academy
 
 The http://bash.academy website 
 
-**What to use bash academy for  **
+What to use bash academy for
+====================================  
 
 Bash academy can be used in the following instances :
 
@@ -12,8 +13,9 @@ Bash academy can be used in the following instances :
 2. As a reference for bash users to look up syntax and uses for specific commands.
 
 3. As a teaching aid for anyone teaching people how to use bash. 
-**
-When to use bash academy and how to use it**
+
+When to use bash academy and how to use it
+================================================
 
  Bash academy can be downloaded onto a local storage medium and can be accessed via a web browser. Alternatively, one can host  into onto a web server and make it available to other users eg. students.
 	
