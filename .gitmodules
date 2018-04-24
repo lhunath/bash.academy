@@ -1,0 +1,6 @@
+[submodule "guide"]
+	path = guide
+	url = https://github.com/lhunath/guide.bash.academy.git
+[submodule "play"]
+	path = play
+	url = https://github.com/lhunath/play.bash.academy.git
