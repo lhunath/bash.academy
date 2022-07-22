@@ -1,4 +1,4 @@
 bash.academy
 ============
 
-The https://bash.academy website
+The https://guide.bash.academy website
